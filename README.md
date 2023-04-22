@@ -9,7 +9,7 @@ This tutorial outlines certain types of functions that are used in OS Ticket. So
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -18,8 +18,8 @@ This tutorial outlines certain types of functions that are used in OS Ticket. So
 <h2>Functions used in OS Ticket</h2>
 
 - Configure roles for a new admin in osTicket.
-- Create a new department in a ticketing system
-- Configure SLA's to specify expected time limits for a ticket to be closed.
+- Create a new department in osTicket.
+- Configure and create SLA's to specify expected time limits for a ticket to be closed.
 
 <h2>OS Ticket Examples</h2>
 
@@ -27,22 +27,22 @@ This tutorial outlines certain types of functions that are used in OS Ticket. So
 <img src="https://i.imgur.com/2mo6yeZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In OS Ticket you can assign certain roles for different individuals.
+In osTicket you can assign certain roles for different individuals.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1RXC0na.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is where you can add different departments within osTicket. This allows tickets to be routed through different departments for completion.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DoNmdZw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket you can create a new SLA or modify an SLA to provide a length of time the ticket needs to be completed.
 </p>
 <br />
