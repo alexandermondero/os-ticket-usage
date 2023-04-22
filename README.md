@@ -2,13 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<h1>osTicket - Post Installation Configuration</h1>
+This tutorial outlines certain types of functions that are used in OS Ticket. Some of these functions can include configuring certain foles for agents and users, setting SLA time limits, and adding new groups, teams and departments.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,15 +15,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Functions used in OS Ticket</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure roles for a new admin in osTicket.
+- Create a new department in a ticketing system
+- Configure SLA's to specify expected time limits for a ticket to be closed.
 
-<h2>Installation Steps</h2>
+<h2>OS Ticket Examples</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
