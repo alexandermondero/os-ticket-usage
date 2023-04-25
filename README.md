@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket</h1>
-This tutorial outlines certain types of functions that are used in OS Ticket. Some of these functions can include configuring certain foles for agents and users, setting SLA time limits, and adding new groups, teams and departments.<br />
+This tutorial outlines certain types of functions that are used in OS Ticket. Some of these functions can include configuring certain roles for agents and users, setting SLA time limits, and adding new groups, teams and departments.<br />
 
 <h2>Environments and Technologies Used</h2>
 
